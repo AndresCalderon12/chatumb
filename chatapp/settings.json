@@ -1,0 +1,30 @@
+{
+"terminal.integrated.shell.windows":"C:\\Program Files\\Git\\bin\\bash.exe",
+"terminal.integrated.fontSize":15,
+"editor.fontSize":16,
+"vsicons.projectDetection.disableDetect":true,
+"git.ignoreMissingGitWarning":true,
+//set the default
+"editor.formatOnSave":true,
+//enable per-leanguagje
+"[javascript]":{
+    "editor.formatOnSave":true,
+
+},
+"[typescript]":{
+    "editor.formatOnSave":true,
+
+},
+"eslint.autoFixOnSave":true,
+"eslint.alwaysShowStatus":true,
+"prettier.eslintIntegration":true,
+"prettier.singleQuote":true,
+"npm-intellisense.importES6":true,
+"npm-intellisense.importQuote":"'",
+"npm-intellisense.importLinebreak":";\r\n",
+"npm-intellisense.importDeclarationType":"const",
+"gitlens.advanced.messages":{
+    "suppressShowKeyBindingsNotice":true,
+
+  }, 
+}
